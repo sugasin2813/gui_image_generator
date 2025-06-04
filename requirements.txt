@@ -1,0 +1,6 @@
+flet==0.28.3
+diffusers==0.33.1
+opencv-python==4.11.0.86
+perft==0.15.2
+torch==2.7.0
+transformers==4.52.4
